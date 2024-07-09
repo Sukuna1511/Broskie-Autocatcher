@@ -1,5 +1,5 @@
 const config = {
-    token: "MTI2MDE0MTA3MTIzNzkxMDU5OQ.G8vXJB._y3Wes9KkziD3sUZ67HxxHAntKGWJ5gv_l_xQg",//`MTIzMTQ3MTcyOTAwNDY0NjQ1MQ.GiYBfG.95faZAedM0sHRgZDLPjyz8gDXPfB-VxVKs5al8`,
+    token: "MTI2MDE0MTA3MTIzNzkxMDU5OQ.GT9GAr.Ku7ED2CQlFDAmc10U34v0xu1-d-OQ2FXjepht0",//`MTI2MDE0MTA3MTIzNzkxMDU5OQ.GT9GAr.Ku7ED2CQlFDAmc10U34v0xu1-d-OQ2FXjepht0`,
     prefix: "$",
     captchaKey: "9d0106ffe0d7cf628438d8d295432b8d",
     webhook: `https://discord.com/api/webhooks/1234029584119234641/6tlRACghmY2hA8Irfqp1lSNvg70nrhNjxctQRI3yxk7vNQ2NlkVeXaus6qiDSJsUT7cl`,
